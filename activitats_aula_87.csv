@@ -1,0 +1,158 @@
+activitat_id,activitat,aula_id,startdate,duedate,grade,shared_id
+3,Problema 1.1 - Hello world!!!,87,0,0,100,1
+4,Problema 1.2 - Hello world!!! ++,87,0,0,100,2
+5,Problema 3a.1: C�lcul edat,87,0,0,100,3
+6,Problema 3a.8: Conversi� d�lars a euros,87,0,0,100,4
+7,Problema 3a.11: Mitjana de notes,87,0,0,100,5
+8,Problema 3a.13: Conversi� Celsius a Fahrenheit,87,0,0,100,6
+9,Problema 3a.15: Expressions aritm�tiques amb divisions,87,0,0,100,7
+10,Problema 3a.17: Unitats de miler,87,0,0,100,8
+11,Problema 3a.2: Operadors relacionals,87,0,0,100,9
+12,Problema 3a.3: Operadors l�gics,87,0,0,100,10
+13,Problema 3a.4: Operadors l�gics (II),87,0,0,100,11
+14,"Problema 3a.18: Nom, cognom i edat",87,0,0,100,12
+15,Problema 3a.20: Car�cters i codi ASCII,87,0,0,100,13
+16,Problema 3a.21: Expressions l�giques,87,0,0,100,14
+17,(OPCIONAL) Problema 3b.1: �s de l'interval?,87,0,0,100,15
+18,Problema 3b.2: Sumar un segon,87,0,0,100,16
+19,Problema 3b.10: Edat de treballar,87,0,0,100,17
+20,Problema 3b.12: Ordenar dos nombres,87,0,0,100,18
+21,(OPCIONAL) Problema 3b.3: Positiu o negatiu?,87,0,0,100,19
+22,Problema 3b.4: Vocal o Consonant?,87,0,0,100,20
+23,Problema 3b.14: Menor o major d'edat,87,0,0,100,21
+24,Problema 3b.17: Any de trasp�s,87,0,0,100,22
+25,"Problema 3b.5: Positiu, negatiu o zero?",87,0,0,100,23
+26,Problema 3b.6: C�lcul Salari,87,0,0,100,24
+27,Problema 3b.19: Edat i treball,87,0,0,100,25
+28,(OPCIONAL) Problema 3b.20: Iguals o diferents?,87,0,0,100,26
+29,Problema 3b.22: C�lcul del preu final,87,0,0,100,27
+30,Problema 3b.25: Nota acta,87,0,0,100,28
+31,Problema 3b.27: El m�s gran de quatre n�meros,87,0,0,100,29
+32,Problema 3b.7: Men� de tasques,87,0,0,100,30
+33,(OPCIONAL) Problema 3b.8: Vocal o consonant? (versi� 2),87,0,0,100,31
+34,Problema 3b.31: Canvi de divises,87,0,0,100,32
+35,(OPCIONAL) Problema 3b.33: Zod�ac xin�s,87,0,0,100,33
+36,Problema 3b.35: Morse,87,0,0,100,34
+37,Problema 3b.36: Data correcta,87,0,0,100,35
+38,Problema 3b.37: Calculadora,87,0,0,100,36
+39,Problema 3c.1: Sumatori dels 10 primers valors enters,87,0,0,100,37
+40,(OPCIONAL) Problema 3c.2: Sumatori d'un nombre (while),87,0,0,100,38
+41,Problema 3c.8: Mitjana d'una seq��ncia,87,0,0,100,39
+42,(OPCIONAL) Problema 3c.10: Seq��ncia de senars?,87,0,0,100,40
+43,Problema 3c.12: M�xim i m�nim d'una seq��ncia,87,0,0,100,41
+44,Problema 3c.14: Rellotge digital,87,0,0,100,42
+45,(OPCIONAL) Problema 3c.16: Estad�stica de notes,87,0,0,100,43
+46,Problema 3c.17: Calculadora multi-operaci�,87,0,0,100,44
+47,Problema 3c.19: �s primer?,87,0,0,100,45
+48,(OPCIONAL) Problema 3c.3: Sumatori dels 10 primers valors enters,87,0,0,100,46
+49,Problema 3c.4: Sumatori d'un nombre (for),87,0,0,100,47
+50,Problema 3c.22: S�ries num�riques,87,0,0,100,48
+51,Problema 3c.24: Pot�ncies de 2 fins 2^N,87,0,0,100,49
+52,Problema 3c.25: Positius i negatius,87,0,0,100,50
+53,"Problema 3c.27: Suma, producte i mitjana",87,0,0,100,51
+54,Problema 4.1: Hashtags,87,0,0,100,52
+55,Problema 4.2: Canvi del format d'una data,87,0,0,100,53
+56,Problema 4.7: Subcadenes,87,0,0,100,54
+57,Problema 4.10: Cadena modificada,87,0,0,100,55
+58,(OPCIONAL) Problema 4.11: Zod�ac xin�s,87,0,0,100,56
+59,Problema 4.13: Dies de la setmana,87,0,0,100,57
+60,Problema 4.3: El sed�s d'Erat�stenes,87,0,0,100,58
+61,Problema 4.14: Llistes d'aprovats i suspesos,87,0,0,100,59
+62,(OPCIONAL) Problema 4.16: Partici� de llista,87,0,0,100,60
+63,Problema 4.17: Men� d'operacions sobre llistes,87,0,0,100,61
+64,(OPCIONAL) Problema 4.18: Llista de llistes,87,0,0,100,62
+65,Problema 4.4: Comptar vocals en un string,87,0,0,100,63
+66,Problema 4.5: Hi ha parells?,87,0,0,100,64
+67,Problema 4.20: Substituir negatius,87,0,0,100,65
+68,Problema 4.21: Maj�scules,87,0,0,100,66
+69,(OPCIONAL) Problema 4.23: Edat de comen�ar a caminar,87,0,0,100,67
+70,(OPCIONAL) Problema 4.25: M�xim d'una llista,87,0,0,100,68
+71,Problema 4.27: Estad�stica de temperatures,87,0,0,100,69
+72,Problema 4.28: Histograma de vocals,87,0,0,100,70
+73,(OPCIONAL) Problema 4.30: Hi ha espais?,87,0,0,100,71
+74,(OPCIONAL) Problema 4.32: Vector de nombres senars,87,0,0,100,72
+75,Problema 4.35: Llista ordenada creixent,87,0,0,100,73
+76,Problema 4.37: Llista amb suma acumulada de 25?,87,0,0,100,74
+77,Problema 4.38: Comparaci� de llistes,87,0,0,100,75
+78,(OPCIONAL) Problema 4.39: PrimerDiferent,87,0,0,100,76
+79,Problema 4.40: Palindrom,87,0,0,100,77
+80,Problema 4.41: Password correcte,87,0,0,100,78
+81,Problema 4.42: El joc del penjat,87,0,0,100,79
+82,Problema 5.1: C�lcul de combinacions,87,0,0,100,80
+83,Problema 5.2: Sumar un segon (funcions),87,0,0,100,81
+84,Problema 5.7: Centenes d'un nombre,87,0,0,100,82
+85,(OPCIONAL) Problema 5.9: Pot�ncia d'un nombre,87,0,0,100,83
+86,Problema 5.13: S�rie de Fibonacci,87,0,0,100,84
+87,Problema 5.21: Divisi� amb sumes i restes (quocient i residu),87,0,0,100,85
+88,(OPCIONAL) Problema 5.23: Funci� m�xim i m�nim,87,0,0,100,86
+89,Problema 5.26: Equacions quadr�tiques,87,0,0,100,87
+90,Problema 5.27: �rea de figures,87,0,0,100,88
+91,Problema 5.3: Alerta,87,0,0,100,89
+92,Problema 5.15: Men� calculadora,87,0,0,100,90
+93,(OPCIONAL) Problema 5.17: Pot�ncies,87,0,0,100,91
+94,Problema 5.4: Temps d'execuci�,87,0,0,100,92
+95,Problema 5.30: Suma de llistes,87,0,0,100,93
+96,Problema 5.32: Llibreria de llistes,87,0,0,100,94
+97,(OPCIONAL) Problema 5.33: Estad�stica temperatures (modular),87,0,0,100,95
+98,Problema 5.34: Histograma de temperatures,87,0,0,100,96
+99,(OPCIONAL) Problema 5.36: OrdenadaDecreixent,87,0,0,100,97
+100,(OPCIONAL) Problema 5.38: BuscarPosicio,87,0,0,100,98
+101,(OPCIONAL) Problema 5.39: LlistaInversa,87,0,0,100,99
+102,Problema 5.42: OrdenarLlista,87,0,0,100,100
+103,Problema 6.1: Escriure / Llegir fitxer,87,0,0,100,101
+104,Problema 6.2: Escriure fitxer mode 'afegir',87,0,0,100,102
+105,Problema 6.3: seek and tell,87,0,0,100,103
+106,Problema 6.5: Lectura l�nea a l�nea de text,87,0,0,100,104
+107,(OPCIONAL) Problema 6.7: Lectura de valors num�rics,87,0,0,100,105
+108,Problema 6.9: Lectura de dades estructurades,87,0,0,100,106
+109,(OPCIONAL) Problema 6.11: Escriptura taula de multiplicar,87,0,0,100,107
+110,Problema 6.13: Afegir dades a un fitxer amb format,87,0,0,100,108
+111,Problema 6.16: Codificar fitxer,87,0,0,100,109
+112,Problema 6.18: Buscar dades en fitxer,87,0,0,100,110
+113,Problema 7.1: Calculadora amb control d'errors,87,0,0,100,111
+114,Problema 7.2: KelvinToFahrenheit,87,0,0,100,112
+115,Problema 7.3: Operador d'strings,87,0,0,100,113
+116,Problema 7.4: Lectura de fitxer,87,0,0,100,114
+117,Problema 7.5: �rea i per�metre circumfer�ncia,87,0,0,100,115
+118,Problema 8.1: Classe Fraccio,87,0,0,100,116
+119,Problema 8.4: Classe Equip,87,0,0,100,117
+120,Problema 8.5: Classe Point,87,0,0,100,118
+121,Problema 8.6: Classe Rectangle,87,0,0,100,119
+122,Problema 8.7: Classe Estudiant,87,0,0,100,120
+123,Problema 8.2: Comptes bancaris,87,0,0,100,121
+124, Problema 8.11: Point2D i Point3D,87,0,0,100,122
+125,Problema 8.12: Comunitat Universitaria,87,0,0,100,123
+126,Problema 8.13: Poligon,87,0,0,100,124
+127, Problema 8.14: Baralla de cartes,87,0,0,100,125
+128,Problema 9.1: Lyrics2list,87,0,0,100,126
+129,Problema 9.2: Anagrama,87,0,0,100,127
+130,Problema 9.3: Paradoxa de l'aniversari,87,0,0,100,128
+131,Problema 9.5: Bisecci�,87,0,0,100,129
+132,Problema 9.6: Parelles inverses,87,0,0,100,130
+133,(OPCIONAL) Problema 9.8: Bubble Sort,87,0,0,100,131
+134,(OPCIONAL) Problema 9.9: Llistes circularment identiques,87,0,0,100,132
+135,Problema 9.11: IBEX,87,0,0,100,133
+136,(OPCIONAL) Problema 9.12 Persones,87,0,0,100,134
+137,Problema 9.13: Estad�stica de temperatures,87,0,0,100,135
+138,Problema 9.15 Fibonacci,87,0,0,100,136
+139,(OPCIONAL) Problema 9.16 Repetici�,87,0,0,100,137
+140,Problema 9.17 Cicle,87,0,0,100,138
+141,Problema 9.18 Majuscules,87,0,0,100,139
+142,Problema 9.19 Notes,87,0,0,100,140
+143,(OPCIONAL) Problema 9.21 Circumf�rencia,87,0,0,100,141
+144,Problema 9.22 Palindrom,87,0,0,100,142
+145,Problema 9.23 Majuscules,87,0,0,100,143
+147,Problema 9.35: Paraules �niques,87,0,0,100,144
+148,Problema 9.36: Ni si ni no ni blanc ni negre,87,0,0,100,145
+149,(OPCIONAL) Problema 9.37: Corrector ortogr�fic,87,0,0,100,146
+150,Problema 9.38: Freq��ncia d'una paraula,87,0,0,100,147
+151,Problema 9.39: Escrutini,87,0,0,100,148
+152,(OPCIONAL) Problema 9.40: Pa�sos,87,0,0,100,149
+153,Problema 9.41: Clients,87,0,0,100,150
+154,Problema 9.46: Morse,87,0,0,100,151
+155,Problema 9.48: Crear Index,87,0,0,100,152
+156,"Entrega Practica 1: Rock, Paper, Scissors, Lizard, Spock",87,1666083300,1675810500,100,153
+165,"Lliurament Practica 1: Rock, Paper, Scissors, Lizard, Spock",87,1666686600,1667602500,100,154
+167,Lliurament Pr�ctica 2: Hotels,87,0,1671749700,100,155
+1652,RECUPERACIO - Lliurament Pr�ctica 2: Hotels,87,0,1676069700,100,247
+2221,"RECUPERACI�:  Practica 1: Rock, Paper, Scissors, Lizard, Spock",87,1675270800,1676242500,100,250
