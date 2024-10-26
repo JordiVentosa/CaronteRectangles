@@ -271,7 +271,6 @@ activitat_id,activitat,aula_id,startdate,duedate,grade
 479,Problema 5d.2: Creaci� Array TipusAlumne,92,0,0,100
 480,Problema 5d.7: Tipus Poligon,92,0,0,100
 481,Problema 5d.8: Classificaci� de futbol,92,0,0,100
-483,Entrega Practica 1: Fox Rabbit,92,1665338400,1665957300,100
 485,Entrega Practica 1: Brain Training,92,1664872200,1665438900,100
 486,Entrega Practica 1: Brain Training,92,1665048060,1665611700,100
 487,RECUPERACI� Entrega Practica 1: Brain Training,92,0,1671199500,100
@@ -284,39 +283,7 @@ activitat_id,activitat,aula_id,startdate,duedate,grade
 500,Entrega Pr�ctica 5: BlackJack,92,1667891700,1668466500,100
 501,Entrega Pr�ctica 5: BlackJack,92,1668063900,1668639300,100
 502,RECUPERACI� Entrega Pr�ctica 5: BlackJack,92,0,1671192300,100
-1425,Problema 1.1 - Hello world!!!,114,0,0,100
-1426,Problema 1.2 - Hello world!!! ++,114,0,0,100
-1429,Problema 3a.1: C�lcul edat,114,0,0,100
-1435,Problema 3a.2: Expressions booleanes,114,0,0,100
-1436,Problema 3a.3: Operadors l�gics,114,0,0,100
-1437,Problema 3a.4: Operadors l�gics (II),114,0,0,100
-1463,Problema 3c.1: Sumatori dels 10 primers valors enters,114,0,0,100
-1471,Problema 3c.17: Mitjana d'una seq��ncia (while),114,0,0,100
-1472,(OPCIONAL) Problema 3c.19: Seq��ncia de senars? (while),114,0,0,100
-1474,(OPCIONAL) Problema 3c.22: Estad�stica de notes,114,0,0,100
-1475,Problema 3c.23: �s primer?,114,0,0,100
-1476,(OPCIONAL) Problema 3c.5: Sumatori dels 10 primers valors enters,114,0,0,100
-1482,Problema 3c.16: Endevina un n�mero,114,0,0,100
-1499,Problema 4.26: Equacions quadr�tiques,114,0,0,100
-1500,Problema 4.26: Equacions quadr�tiques Proves,114,0,0,100
-1504,Problema 5a.2: Inicialitzar un array,114,0,0,100
-1505,Problema 5a.3: Nombre d'aprovats,114,0,0,100
-1507,Problema 5a.8: Substituir negatius,114,0,0,100
-1509,Problema 5a.12: M�xim d'un vector,114,0,0,100
-1510,Problema 5a.14: Estad�stica de temperatures,114,0,0,100
-1511,Problema 5a.4: Omplir array o acabar amb el zero,114,0,0,100
-1512,Problema 5a.5: Vector ordenat en ordre creixent,114,0,0,100
-1514,Problema 5a.17: Vector amb suma acumulada de 25?,114,0,0,100
-1515,Problema 5a.19: Comparaci� d'arrays,114,0,0,100
-1516,Problema 5a.6: Suma de vectors,114,0,0,100
-1517,Problema 5a.20: Llibreria vectors.h,114,0,0,100
-1518,Problema 5a.21: Llibreria vectors.h (2� part),114,0,0,100
-1521,Problema 5a.26: OrdenatDecreixent,114,0,0,100
-1522,Problema 5a.28: BuscarPosicio,114,0,0,100
-1523,Problema 5a.29: InversArray,114,0,0,100
 1652,RECUPERACIO - Lliurament Pr�ctica 2: Hotels,87,0,1676069700,100
-2188,"Pregunta 7 (3 punt. Correcci� autom�tica 2,5 -  Manual 0,5)",126,0,1642678500,100
-2189,"Pregunta 7 PRU (3 punt. Correcci� autom�tica 2,5 -  Manual 0,5)",126,0,1642678500,100
 2221,"RECUPERACI�:  Practica 1: Rock, Paper, Scissors, Lizard, Spock",87,1675270800,1676242500,100
 2373,Problema 1.1 - Hello world!!!,141,0,0,100
 2374,Problema 1.2 - Hello world!!! ++,141,0,0,100
@@ -607,7 +574,6 @@ activitat_id,activitat,aula_id,startdate,duedate,grade
 2725,Entrega Pr�ctica 5: BlackJack,143,1699342200,1699916100,100
 2726,Entrega Pr�ctica 5: BlackJack,143,1699515000,1700088900,100
 2727,RECUPERACI� Entrega Pr�ctica 5: BlackJack,143,0,1702594740,100
-3084,Problema 4.26: Equacions quadr�tiques,125,0,0,100
 3086,Exercici 1 (1 punt),143,0,1701122820,1
 3087,Exercici 2 (1 punt),143,1698966000,1699311600,1
 3088,Exercici 3 (1 punt),143,1698966000,1699311600,1
@@ -621,12 +587,10 @@ activitat_id,activitat,aula_id,startdate,duedate,grade
 3098,Exercici 3 (1 punt),143,1699279200,1699286100,1
 3099,Exercici 4 (1 punt),143,1699279200,1699286100,1
 3100,Exercici 5 (1 punt),143,1699279200,1699286100,1
-3101,Entrega Pr�ctica 5: La Major,143,1571985000,1576745700,100
 3102,Exercici 6 (3 punts),143,1699279200,1699286100,3
 3103,Exercici 7 (1 punt),143,1699279200,1699286100,1
 3104,Exercici 8 (1 punt),143,1699279200,1699286100,1
 3105,Exercici 1 (1.5 punts),141,1698917400,1698924900,100
-3106,Entrega Pr�ctica 5: La Major,143,1571985000,1576745700,100
 3108,Exercici 2 (1 punt),141,1698917400,1698924900,100
 3109,Exercici 3 (1.5 punts),141,1698917400,1698924900,100
 3110,Exercici 4 (1.5 punts),141,1698917400,1698924900,100
@@ -640,10 +604,8 @@ activitat_id,activitat,aula_id,startdate,duedate,grade
 3122,Exercici 6 (1 punt),141,1699603200,1699610400,100
 3124,Exercici 7 (3 punts),141,1699603200,1699610400,100
 3130,Pr�ctica 2 (Hotels - 1): classes,141,0,0,100
-3139,Pr�ctica 2 (Hotels - 1): funcions (PROVES),141,0,1702166400,10
 3144,Pr�ctica 2: (Hotels) - 1: programa principal,141,0,0,100
 3145,Pr�ctica 2 (Hotels - 1): funcions,141,0,0,100
-3146,Pr�ctica 2: (Hotels) - 1: programa principal (PROVES),141,0,0,100
 3152,FP - Exercici MODEL 1 (XX punts),141,1705392000,1705399200,100
 3154,Final FP - Exercici 1 (1 punt),141,1705392000,1705400100,100
 3155,Final FP - Exercici 7 (2 punts),141,1705392000,1705400100,100
@@ -672,7 +634,6 @@ activitat_id,activitat,aula_id,startdate,duedate,grade
 3186,Exercici 2 (1.5 punts),143,1706169600,1706175000,1
 3196,Exercici 3 (1.5 punts),143,1706169600,1706175000,1
 3197,Exercici 7 (1 punt),143,1706169600,1706175000,1
-3199,OLD Exercici 6 (0.5 punts),143,1706169600,1706175000,10
 3200,Exercici 4 (1.5 punts),143,1706169600,1706175000,1
 3201,Exercici 5 (3 punts),143,1706169600,1706175000,3
 3203,Exercici 6 (0.5 punts),143,1706169600,1706175000,1
@@ -806,7 +767,6 @@ activitat_id,activitat,aula_id,startdate,duedate,grade
 3567,Lliurament Pr�ctica 2: Duel de Pistolers,176,1728973800,1729634100,100
 3568,Lliurament Pr�ctica 2: Duel de Pistolers,176,1729146600,1729806900,100
 3573,Lliurament Pr�ctica 3 - 4: MasterMind,176,1729578600,1730847300,100
-3596,Exercici 1 (1 punt),176,1699279200,1699286100,1
 3799,Problema 1.1 - Hello world!!!,184,0,0,100
 3800,Problema 1.2 - Hello world!!! ++,184,0,0,100
 3801,Problema 3a.1: C�lcul edat,184,0,0,100
@@ -920,10 +880,4 @@ activitat_id,activitat,aula_id,startdate,duedate,grade
 3909,Problema 7.1: Calculadora amb control d'errors,184,0,0,100
 3911,Problema 7.3: Operador d'strings,184,0,0,100
 3912,Problema 7.4: Lectura de fitxer,184,0,0,100
-3916,Problema 8.5: Classe Point,184,0,0,100
-3917,Problema 8.6: Classe Rectangle,184,0,0,100
-3952,"Lliurament Pr�ctica 1: Rock, Paper, Scissors, Lizard, Spock",184,1729494000,1730674500,100
 3962,"Lliurament Pr�ctica 1: Rock, Paper, Scissors, Lizard, Spock",184,1729585800,1730674500,100
-4194,(OPCIONAL) Problema 9.24 Triple pitag�ric,184,0,0,100
-4380,VPL Child - Duplicate Me as Needed,114,0,0,10
-4386,Lliurament Pr�ctica 5: NEW La Major,176,1571985000,1576745700,100

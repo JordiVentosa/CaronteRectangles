@@ -123,7 +123,7 @@ activitat_id,activitat,aula_id,startdate,duedate,grade,shared_id
 2494, Problema 8.11: Point2D i Point3D,141,0,0,100,122
 2495,Problema 8.12: Comunitat Universitaria,141,0,0,100,123
 2496,Problema 8.13: Poligon,141,0,0,100,124
-2497,Problema 8.14: Baralla de cartes,141,0,0,100,251
+2497,Problema 8.14: Baralla de cartes,141,0,0,100,247
 2498,Problema 9.1: Lyrics2list,141,0,0,100,126
 2499,Problema 9.2: Anagrama,141,0,0,100,127
 2500,Problema 9.3: Paradoxa de l'aniversari,141,0,0,100,128
@@ -142,9 +142,9 @@ activitat_id,activitat,aula_id,startdate,duedate,grade,shared_id
 2513,(OPCIONAL) Problema 9.21 Circumf�rencia,141,0,0,100,141
 2514,Problema 9.22 Palindrom,141,0,0,100,142
 2515,Problema 9.23 Majuscules,141,0,0,100,143
-2516,(OPCIONAL) Problema 9.31 Suma de matrius,141,0,0,100,252
+2516,(OPCIONAL) Problema 9.31 Suma de matrius,141,0,0,100,248
 2517,Problema 9.35: Paraules �niques,141,0,0,100,144
-2518,"Problema 9.36: Ni s�, ni no, ni blanc, ni negre",141,0,0,100,253
+2518,"Problema 9.36: Ni s�, ni no, ni blanc, ni negre",141,0,0,100,249
 2519,(OPCIONAL) Problema 9.37: Corrector ortogr�fic,141,0,0,100,146
 2520,Problema 9.38: Freq��ncia d'una paraula,141,0,0,100,147
 2521,Problema 9.39: Escrutini,141,0,0,100,148
@@ -152,58 +152,56 @@ activitat_id,activitat,aula_id,startdate,duedate,grade,shared_id
 2523,Problema 9.41: Clients,141,0,0,100,150
 2524,Problema 9.46: Morse,141,0,0,100,151
 2525,Problema 9.48: Crear Index,141,0,0,100,152
-2526,"Lliurament Pr�ctica 1: Rock, Paper, Scissors, Lizard, Spock",141,1698217200,1699052100,100,254
-2527,"RECUPERACI�  Pr�ctica 1: Rock, Paper, Scissors, Lizard, Spock",141,0,1707173700,100,255
-2528,Lliurament Pr�ctica 2: Funcionament,141,0,1707173700,100,256
-2529,Lliurament Pr�ctica 2: Classes,141,0,1707173700,100,257
-2536,"Lliurament Pr�ctica 1: Rock, Paper, Scissors, Lizard, Spock",141,1698309000,1699052100,100,254
-2537,"RECUPERACIO - Lliurament Pr�ctica 1: Rock, Paper, Scissors, Lizard, Spock",141,0,1706568900,100,258
-3105,Exercici 1 (1.5 punts),141,1698917400,1698924900,100,277
-3108,Exercici 2 (1 punt),141,1698917400,1698924900,100,267
-3109,Exercici 3 (1.5 punts),141,1698917400,1698924900,100,278
-3110,Exercici 4 (1.5 punts),141,1698917400,1698924900,100,279
-3111,Exercici 5 (1.5 punts),141,1698917400,1698924900,100,280
-3112,Exercici 6 (3 punts),141,1698917400,1698924900,100,271
-3117,Exercici 1 (1.25 punts),141,1699603200,1699610400,100,281
-3118,Exercici 2 (1.25 punts),141,1699603200,1699610400,100,282
-3119,Exercici 3 (1.25 punts),141,1699603200,1699610400,100,283
-3120,Exercici 4 (1.25 punts),141,1699603200,1699610400,100,284
-3121,Exercici 5 (1 punt),141,1699603200,1699610400,100,274
-3122,Exercici 6 (1 punt),141,1699603200,1699610400,100,285
-3124,Exercici 7 (3 punts),141,1699603200,1699610400,100,286
-3130,Pr�ctica 2 (Hotels - 1): classes,141,0,0,100,287
-3139,Pr�ctica 2 (Hotels - 1): funcions (PROVES),141,0,1702166400,10,288
-3144,Pr�ctica 2: (Hotels) - 1: programa principal,141,0,0,100,289
-3145,Pr�ctica 2 (Hotels - 1): funcions,141,0,0,100,290
-3146,Pr�ctica 2: (Hotels) - 1: programa principal (PROVES),141,0,0,100,291
-3152,FP - Exercici MODEL 1 (XX punts),141,1705392000,1705399200,100,292
-3154,Final FP - Exercici 1 (1 punt),141,1705392000,1705400100,100,293
-3155,Final FP - Exercici 7 (2 punts),141,1705392000,1705400100,100,294
-3156,Final FP - Exercici 2 (1 punt),141,1705392000,1705400100,100,295
-3157,Final FP - Exercici 3 (1 punt),141,1705392000,1705400100,100,296
-3158,Final FP - Exercici 4 (1 punt),141,1705392000,1705400100,100,297
-3159,Final FP - Exercici 5 (1 punt),141,1705392000,1705400100,100,298
-3160,Final FP - Exercici 6 (1 punt),141,1705392000,1705400100,100,299
-3162,Final FP - Exercici 8 (2 punts),141,1705392000,1705400100,100,300
-3163,Final IP - Exercici 1 (1 punt),141,1705478400,1705486200,100,301
-3164,Final IP - Exercici 2 (1 punt),141,1705478400,1705486200,100,302
-3165,Final IP - Exercici 3 (1 punt),141,1705478400,1705486200,100,303
-3166,Final IP - Exercici 4 (1 punt),141,1705478400,1705486200,100,304
-3167,Final IP - Exercici 5 (1 punt),141,1705478400,1705486200,100,305
-3168,Final IP - Exercici 6 (1 punt),141,1705478400,1705486200,100,306
-3169,Final IP - Exercici 7 (2 punts),141,1705478400,1705486200,100,307
-3170,Final IP - Exercici 8 (2 punts),141,1705478400,1705486200,100,308
-3171,Recuperaci� FP - Exercici 1  (1.5 punts),141,1706601600,1706608800,100,309
-3178,Recuperaci� FP - Exercici 2  (1.5 punts),141,1706601600,1706608800,100,310
-3179,Recuperaci� FP - Exercici 3  (1 punt),141,1706601600,1706608800,100,311
-3181,Recuperaci� FP - Exercici 4 (1 punt),141,1706601600,1706608800,100,312
-3182,Recuperaci� FP - Exercici 5 (1 punt),141,1706601600,1706608800,100,313
-3183,Recuperaci� FP - Exercici 7  (2 punts),141,1706601600,1706608800,100,314
-3184,Recuperaci� FP - Exercici 6  (2 punts),141,1706601600,1706608800,100,315
-3315,Recuperaci� IP - Exercici 7  (2 punts),141,1707206400,1707214320,100,320
-3316,Recuperaci� IP - Exercici 6  (2 punts),141,1707206400,1707214320,100,321
-3317,Recuperaci� IP - Exercici 5 (1 punt),141,1707206400,1707214320,100,322
-3318,Recuperaci� IP - Exercici 4 (1 punt),141,1707206400,1707214320,100,323
-3319,Recuperaci� IP - Exercici 3  (1 punt),141,1707206400,1707214320,100,324
-3320,Recuperaci� IP - Exercici 2  (1.5 punts),141,1707206400,1707214320,100,325
-3321,Recuperaci� IP - Exercici 1  (1.5 punts),141,1707206400,1707214320,100,326
+2526,"Lliurament Pr�ctica 1: Rock, Paper, Scissors, Lizard, Spock",141,1698217200,1699052100,100,250
+2527,"RECUPERACI�  Pr�ctica 1: Rock, Paper, Scissors, Lizard, Spock",141,0,1707173700,100,251
+2528,Lliurament Pr�ctica 2: Funcionament,141,0,1707173700,100,252
+2529,Lliurament Pr�ctica 2: Classes,141,0,1707173700,100,253
+2536,"Lliurament Pr�ctica 1: Rock, Paper, Scissors, Lizard, Spock",141,1698309000,1699052100,100,250
+2537,"RECUPERACIO - Lliurament Pr�ctica 1: Rock, Paper, Scissors, Lizard, Spock",141,0,1706568900,100,254
+3105,Exercici 1 (1.5 punts),141,1698917400,1698924900,100,272
+3108,Exercici 2 (1 punt),141,1698917400,1698924900,100,263
+3109,Exercici 3 (1.5 punts),141,1698917400,1698924900,100,273
+3110,Exercici 4 (1.5 punts),141,1698917400,1698924900,100,274
+3111,Exercici 5 (1.5 punts),141,1698917400,1698924900,100,275
+3112,Exercici 6 (3 punts),141,1698917400,1698924900,100,267
+3117,Exercici 1 (1.25 punts),141,1699603200,1699610400,100,276
+3118,Exercici 2 (1.25 punts),141,1699603200,1699610400,100,277
+3119,Exercici 3 (1.25 punts),141,1699603200,1699610400,100,278
+3120,Exercici 4 (1.25 punts),141,1699603200,1699610400,100,279
+3121,Exercici 5 (1 punt),141,1699603200,1699610400,100,270
+3122,Exercici 6 (1 punt),141,1699603200,1699610400,100,280
+3124,Exercici 7 (3 punts),141,1699603200,1699610400,100,281
+3130,Pr�ctica 2 (Hotels - 1): classes,141,0,0,100,282
+3144,Pr�ctica 2: (Hotels) - 1: programa principal,141,0,0,100,283
+3145,Pr�ctica 2 (Hotels - 1): funcions,141,0,0,100,284
+3152,FP - Exercici MODEL 1 (XX punts),141,1705392000,1705399200,100,285
+3154,Final FP - Exercici 1 (1 punt),141,1705392000,1705400100,100,286
+3155,Final FP - Exercici 7 (2 punts),141,1705392000,1705400100,100,287
+3156,Final FP - Exercici 2 (1 punt),141,1705392000,1705400100,100,288
+3157,Final FP - Exercici 3 (1 punt),141,1705392000,1705400100,100,289
+3158,Final FP - Exercici 4 (1 punt),141,1705392000,1705400100,100,290
+3159,Final FP - Exercici 5 (1 punt),141,1705392000,1705400100,100,291
+3160,Final FP - Exercici 6 (1 punt),141,1705392000,1705400100,100,292
+3162,Final FP - Exercici 8 (2 punts),141,1705392000,1705400100,100,293
+3163,Final IP - Exercici 1 (1 punt),141,1705478400,1705486200,100,294
+3164,Final IP - Exercici 2 (1 punt),141,1705478400,1705486200,100,295
+3165,Final IP - Exercici 3 (1 punt),141,1705478400,1705486200,100,296
+3166,Final IP - Exercici 4 (1 punt),141,1705478400,1705486200,100,297
+3167,Final IP - Exercici 5 (1 punt),141,1705478400,1705486200,100,298
+3168,Final IP - Exercici 6 (1 punt),141,1705478400,1705486200,100,299
+3169,Final IP - Exercici 7 (2 punts),141,1705478400,1705486200,100,300
+3170,Final IP - Exercici 8 (2 punts),141,1705478400,1705486200,100,301
+3171,Recuperaci� FP - Exercici 1  (1.5 punts),141,1706601600,1706608800,100,302
+3178,Recuperaci� FP - Exercici 2  (1.5 punts),141,1706601600,1706608800,100,303
+3179,Recuperaci� FP - Exercici 3  (1 punt),141,1706601600,1706608800,100,304
+3181,Recuperaci� FP - Exercici 4 (1 punt),141,1706601600,1706608800,100,305
+3182,Recuperaci� FP - Exercici 5 (1 punt),141,1706601600,1706608800,100,306
+3183,Recuperaci� FP - Exercici 7  (2 punts),141,1706601600,1706608800,100,307
+3184,Recuperaci� FP - Exercici 6  (2 punts),141,1706601600,1706608800,100,308
+3315,Recuperaci� IP - Exercici 7  (2 punts),141,1707206400,1707214320,100,312
+3316,Recuperaci� IP - Exercici 6  (2 punts),141,1707206400,1707214320,100,313
+3317,Recuperaci� IP - Exercici 5 (1 punt),141,1707206400,1707214320,100,314
+3318,Recuperaci� IP - Exercici 4 (1 punt),141,1707206400,1707214320,100,315
+3319,Recuperaci� IP - Exercici 3  (1 punt),141,1707206400,1707214320,100,316
+3320,Recuperaci� IP - Exercici 2  (1.5 punts),141,1707206400,1707214320,100,317
+3321,Recuperaci� IP - Exercici 1  (1.5 punts),141,1707206400,1707214320,100,318

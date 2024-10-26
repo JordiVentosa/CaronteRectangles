@@ -116,16 +116,15 @@ activitat_id,activitat,aula_id,startdate,duedate,grade,shared_id
 479,Problema 5d.2: Creaci� Array TipusAlumne,92,0,0,100,234
 480,Problema 5d.7: Tipus Poligon,92,0,0,100,235
 481,Problema 5d.8: Classificaci� de futbol,92,0,0,100,236
-483,Entrega Practica 1: Fox Rabbit,92,1665338400,1665957300,100,237
-485,Entrega Practica 1: Brain Training,92,1664872200,1665438900,100,238
-486,Entrega Practica 1: Brain Training,92,1665048060,1665611700,100,238
-487,RECUPERACI� Entrega Practica 1: Brain Training,92,0,1671199500,100,239
-491,"Entrega Practica 2: Rock, Paper, Scissors, Lizard, Spock",92,1665469800,1666043700,100,240
-492,"Entrega Practica 2: Rock, Paper, Scissors, Lizard, Spock",92,1665642600,1666216500,100,240
-493,"RECUPERACI� Entrega Practica 2: Rock, Paper, Scissors, Lizard, Spock",92,0,1671192300,100,241
-494,Entrega Practica 3 - 4: MasterMind,92,1666081440,1667256900,100,242
-495,Entrega Practica 3 - 4: MasterMind,92,1666253400,1667429700,100,242
-496,RECUPERACI� Entrega Practica 3 - 4: MasterMind,92,0,1671192300,100,243
-500,Entrega Pr�ctica 5: BlackJack,92,1667891700,1668466500,100,244
-501,Entrega Pr�ctica 5: BlackJack,92,1668063900,1668639300,100,244
-502,RECUPERACI� Entrega Pr�ctica 5: BlackJack,92,0,1671192300,100,245
+485,Entrega Practica 1: Brain Training,92,1664872200,1665438900,100,237
+486,Entrega Practica 1: Brain Training,92,1665048060,1665611700,100,237
+487,RECUPERACI� Entrega Practica 1: Brain Training,92,0,1671199500,100,238
+491,"Entrega Practica 2: Rock, Paper, Scissors, Lizard, Spock",92,1665469800,1666043700,100,239
+492,"Entrega Practica 2: Rock, Paper, Scissors, Lizard, Spock",92,1665642600,1666216500,100,239
+493,"RECUPERACI� Entrega Practica 2: Rock, Paper, Scissors, Lizard, Spock",92,0,1671192300,100,240
+494,Entrega Practica 3 - 4: MasterMind,92,1666081440,1667256900,100,241
+495,Entrega Practica 3 - 4: MasterMind,92,1666253400,1667429700,100,241
+496,RECUPERACI� Entrega Practica 3 - 4: MasterMind,92,0,1671192300,100,242
+500,Entrega Pr�ctica 5: BlackJack,92,1667891700,1668466500,100,243
+501,Entrega Pr�ctica 5: BlackJack,92,1668063900,1668639300,100,243
+502,RECUPERACI� Entrega Pr�ctica 5: BlackJack,92,0,1671192300,100,244
